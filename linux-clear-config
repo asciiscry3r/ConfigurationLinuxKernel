@@ -1,4 +1,3 @@
-libxslt-1.1.37-2  perl-mime-charset-1.013.1-1  perl-unicode-linebreak-2019.001-5  perl-yaml-tiny-1.73-6  po4a-0.68-1  xmlto-0.0.28-4
 Rebuild with devmem for nvbios flashing
 
 --enable CONFIG_INTEGRITY \
